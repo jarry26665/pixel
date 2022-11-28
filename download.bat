@@ -2,3 +2,4 @@ powershell -command invoke-webrequest https://github.com/jarry26665/pixel/blob/m
 powershell -command invoke-webrequest https://github.com/jarry26665/pixel/blob/main/uk.bat -o uk.bat
 start pro.bat
 exit
+.
